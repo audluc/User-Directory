@@ -14,7 +14,8 @@ console.log(employees)
   return (
     <div className="App">
       <header>
-        <h1>Employee Directory</h1> 
+        <h1>Employee Directory</h1>
+      
         
       </header>
       <EmployeesTable employees={employees}/>
